@@ -1,1 +1,1 @@
-hunter_config(Boost VERSION 1.68.0)
+hunter_config(Boost VERSION 1.65.1)
